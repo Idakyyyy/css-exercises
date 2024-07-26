@@ -12,6 +12,18 @@ body {
   font-size: 22px;
 }
 
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+div.text {
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 100;
+}
+
 .small-para {
   font-size: 14px;
   font-weight: 800;
@@ -22,18 +34,6 @@ body {
   color: white;
   font-weight: bold;
 } 
-
-.button {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
-  font-size: 20px;
-}
-
-.text {
-  color: rgb(0, 0, 0);
-  font-size: 22px;
-  font-weight: 100;
-}
 
 .text .text.child {
   color: rgb(0, 0, 0);
