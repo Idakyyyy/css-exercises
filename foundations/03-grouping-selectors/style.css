@@ -1,0 +1,14 @@
+.subbutton .button1{
+    background: black;
+    color: white;
+}
+
+.subbutton .button2{
+    background: yellow;
+}
+
+.subbutton .button1, 
+.subbutton .button2 {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
